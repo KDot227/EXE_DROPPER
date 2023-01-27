@@ -1,0 +1,2 @@
+C:\Users\this1\source\repos\FUD_EXE_DROPPER_2\FUD_EXE_DROPPER_2\obj\Release\FUD_EXE_DROPPER_2.csproj.AssemblyReference.cache
+C:\Users\this1\source\repos\FUD_EXE_DROPPER_2\FUD_EXE_DROPPER_2\obj\Release\FUD_EXE_DROPPER_2.csproj.SuggestedBindingRedirects.cache

@@ -1,0 +1,6 @@
+C:\Users\this1\source\repos\FUD_EXE_DROPPER_2\Console_App_Only_Dropper\obj\Release\Console_App_Only_Dropper.exe
+C:\Users\this1\source\repos\FUD_EXE_DROPPER_2\Console_App_Only_Dropper\obj\Release\Console_App_Only_Dropper.pdb
+C:\Users\this1\source\repos\FUD_EXE_DROPPER_2\Console_App_Only_Dropper\bin\Release\Console_App_Only_Dropper.exe.config
+C:\Users\this1\source\repos\FUD_EXE_DROPPER_2\Console_App_Only_Dropper\bin\Release\Console_App_Only_Dropper.exe
+C:\Users\this1\source\repos\FUD_EXE_DROPPER_2\Console_App_Only_Dropper\bin\Release\Console_App_Only_Dropper.pdb
+C:\Users\this1\source\repos\FUD_EXE_DROPPER_2\Console_App_Only_Dropper\obj\Release\Console_App_Only_Dropper.csprojResolveAssemblyReference.cache

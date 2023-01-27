@@ -1,0 +1,8 @@
+C:\Users\this1\source\repos\FUD_EXE_DROPPER_2\Console_App_Only_Dropper\bin\Debug\Console_App_Only_Dropper.exe.config
+C:\Users\this1\source\repos\FUD_EXE_DROPPER_2\Console_App_Only_Dropper\bin\Debug\Console_App_Only_Dropper.exe
+C:\Users\this1\source\repos\FUD_EXE_DROPPER_2\Console_App_Only_Dropper\bin\Debug\Console_App_Only_Dropper.pdb
+C:\Users\this1\source\repos\FUD_EXE_DROPPER_2\Console_App_Only_Dropper\obj\Debug\Console_App_Only_Dropper.csproj.AssemblyReference.cache
+C:\Users\this1\source\repos\FUD_EXE_DROPPER_2\Console_App_Only_Dropper\obj\Debug\Console_App_Only_Dropper.csproj.SuggestedBindingRedirects.cache
+C:\Users\this1\source\repos\FUD_EXE_DROPPER_2\Console_App_Only_Dropper\obj\Debug\Console_App_Only_Dropper.csproj.CoreCompileInputs.cache
+C:\Users\this1\source\repos\FUD_EXE_DROPPER_2\Console_App_Only_Dropper\obj\Debug\Console_App_Only_Dropper.exe
+C:\Users\this1\source\repos\FUD_EXE_DROPPER_2\Console_App_Only_Dropper\obj\Debug\Console_App_Only_Dropper.pdb
